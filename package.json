@@ -1,0 +1,32 @@
+{
+  "name": "rails_react_gulp",
+  "version": "1.0.0",
+  "description": "replace Rails asset pipeline with Gulp",
+  "main": "entry.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaption2009/rails_react_gulp.git"
+  },
+  "keywords": [
+    "rails",
+    "react",
+    "gulp"
+  ],
+  "author": "Ron H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaption2009/rails_react_gulp/issues"
+  },
+  "homepage": "https://github.com/swaption2009/rails_react_gulp#readme"
+}
